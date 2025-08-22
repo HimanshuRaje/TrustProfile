@@ -1,7 +1,25 @@
 # 🔐 Trust Profile App
 
-A secure full-stack web application for user registration, login, and trust-based profiling.  
-Built with **React + Tailwind CSS (frontend)** and **Node.js + Express + MongoDB (backend)**.
+📌 Project Description
+
+This website is built to allow users to take and submit personality tests online. The goal was to provide a secure and convenient platform for test submission while strictly following the client’s policy that users must not be able to view their own results online.
+
+Key aspects:
+
+📝 Online Test Submission – Users can register, log in, and securely submit their test answers.
+
+🔒 Role-Based Authentication – Implemented with JWT; only admins can access and view results.
+
+🚫 Restricted Result Access – Users cannot view results online. To get their report, they must visit the office offline.
+
+⚡ Client Requirement Driven – The application was specifically built as per client demand to ensure secure, role-controlled result access.
+
+🎨 Modern UI & UX – Built with React and Tailwind CSS for a clean, responsive user experience.
+
+⚙️ Robust Backend – Node.js + Express + MongoDB handles authentication, data validation, and secure storage.
+
+This website highly focuses on security
+
 
 ---
 
