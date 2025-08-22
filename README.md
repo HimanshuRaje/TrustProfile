@@ -7,7 +7,7 @@ Built with **React + Tailwind CSS (frontend)** and **Node.js + Express + MongoDB
 
 ## 📸 Screenshots
 
-[demo Trust profile](./frontend/public/TrustProfile.png)
+![demo Trust profile](./frontend/public/TrustProfile.png)
 
 ---
 
